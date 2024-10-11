@@ -1,4 +1,4 @@
-# Meu Sistema de Estoque
+# Sistema de Estoque
 
 Este é um sistema de gerenciamento de estoque para pequenas e médias empresas, que permite controlar produtos, categorias, fornecedores e vendas. A plataforma oferece uma interface moderna e intuitiva para facilitar a administração e automação das operações de estoque.
 
